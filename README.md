@@ -7,7 +7,3 @@ Each day contains multiple tasks, and each task includes:
 solution.ipynb -> Jupyter Notebook for implementation
 
 data.xlsx -> Dataset required for the task
-
-output.png -> Any generated output (e.g., visualization images)
-
-README.md -> Task-specific explanations
